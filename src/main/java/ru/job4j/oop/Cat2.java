@@ -1,7 +1,5 @@
 package ru.job4j.oop;
 
-import java.sql.SQLOutput;
-
 public class Cat2 {
     private String food;
     private String name;
